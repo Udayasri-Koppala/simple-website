@@ -1,0 +1,46 @@
+/* responsive layout */
+@media (max-width: 1024px) {
+    .box {
+        height: 300px;
+        width: 300px;
+        margin-top: 25px;
+    }
+    .boxs {
+        height: 50px;
+        font-size: 0.9rem;
+    }
+    .heading {
+        font-size: 16px;
+        height: 100px;
+    }
+}
+@media (max-width: 768px) {
+    .box {
+        height:300px;
+        width: 300px;
+        margin-top: 25px;
+    }
+    .boxs {
+        height: 50px;
+        font-size: 0.9rem;
+    }
+    .heading {
+        font-size: 16px;
+        height: 100px;
+    }
+}
+@media (max-width: 480px) {
+    .box {
+        height: 300px;
+        width: 300px;
+        margin-top: 25px;
+    }
+    .boxs {
+        height: 50px;
+        font-size: 0.9rem;
+    }
+    .heading {
+        font-size: 16px;
+        height: 100px;
+    }
+}
